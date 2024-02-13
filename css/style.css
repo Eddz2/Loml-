@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #message-container {
-    background-color: plum;
+    background-color: lightblue;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.455);
     display: flex;
     justify-content: center;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #message {
-    width: 80%;
-    height: 80%;
-    padding: 10px;
+    width: 90%;
+    height: 90%;
+    padding: 15px;
 }
